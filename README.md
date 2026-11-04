@@ -1,16 +1,30 @@
-## Hi there 👋
+# Dead Console Society
 
-<!--
-**deadconsolesociety/deadconsolesociety** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**New life for dead consoles.**
 
-Here are some ideas to get you started:
+Dead Console Society documents independent **PSP homebrew**, **PS Vita ports** and retro-console development with honest, evidence-backed progress updates.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current projects
+
+- **Elite PSP** — advanced playable PSP development project.
+- **Brutal Doom Vita** — PS Vita launcher, porting and multiplayer testing.
+- **Talisman PSP** — early playable PSP development work.
+- **Marble Blast Ultra Vita Port** — early porting research; no playable VPK currently available.
+
+## Follow the work
+
+- [YouTube](https://www.youtube.com/@DeadConsoleSociety)
+- [Instagram](https://www.instagram.com/deadconsolesociety/)
+- [TikTok](https://www.tiktok.com/@dead.console.society)
+- [Bluesky](https://bsky.app/profile/deadconsolesociety.bsky.social)
+- [Reddit](https://www.reddit.com/user/DeadConsoleSociety/)
+
+## Support development
+
+Support funds development time, testing hardware, tools, hosting and documentation—not copyrighted game files or guaranteed releases.
+
+[Support Dead Console Society on Ko-fi](https://ko-fi.com/deadconsolesociety)
+
+## Rights and distribution
+
+These are independent development projects. No official endorsement or ownership of third-party intellectual property is implied. We do not distribute ROMs, commercial game data, keys or other copyrighted files. Release availability depends on source, asset and licence review for each project.
