@@ -9,10 +9,11 @@ Dead Console Society documents independent **PSP homebrew**, **PS Vita ports** a
 - **Elite PSP** — advanced playable PSP development project.
 - **Brutal Doom Vita** — PS Vita launcher, porting and multiplayer testing.
 - **Talisman PSP** — early playable PSP development work.
-- **Marble Blast Ultra Vita Port** — early porting research; no playable VPK currently available.
+- **Marble Blast Ultra Vita Port** — build 38 completed a physical-Vita level before a measured post-level memory failure; audited build 39 is installed but runtime-unverified; no public download is currently offered.
 
 ## Follow the work
 
+- [Website](https://deadconsolesociety.com)
 - [YouTube](https://www.youtube.com/@DeadConsoleSociety)
 - [Instagram](https://www.instagram.com/deadconsolesociety/)
 - [TikTok](https://www.tiktok.com/@dead.console.society)
